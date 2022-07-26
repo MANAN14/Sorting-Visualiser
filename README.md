@@ -58,5 +58,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## Contributer
+
+https://github.com/kushgandhi13
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
