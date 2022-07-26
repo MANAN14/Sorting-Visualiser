@@ -27,5 +27,5 @@ Check out our App at https://effortless-llama-edff71.netlify.app/
 
 ## Demo
 
-Insert gif or link to demo
+![](https://github.com/MANAN14/Sorting-Visualiser/blob/main/sortingVisualiser.gif)
 
