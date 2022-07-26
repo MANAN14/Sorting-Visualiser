@@ -7,14 +7,15 @@ Check out our App at [Sorting Visualizer](https://effortless-llama-edff71.netlif
 
 ## Demo
 
-![](https://github.com/MANAN14/Sorting-Visualiser/blob/main/sortingVisualiser.gif)
+![](https://github.com/MANAN14/Sorting-Visualizer/blob/main/sortingVisualiser.gif)
 
 ## Features
 
-- Vary the pace
-- Vary the length 
-- Select several sorting algorithms to visualise, together with their time and space complexity. 
+- Vary the pace and length of array
+- Able to randomize arrays 
+- Select several sorting algorithms to visualise with their time and space complexity. 
 - Link to an article on these sorting methods so that you can easily learn and see them at the same time.
+
 ## Future Scope of Improvement
 
 - Make it responsive
@@ -24,8 +25,7 @@ Check out our App at [Sorting Visualizer](https://effortless-llama-edff71.netlif
 
 ## Tech Stack
 
-**Client:** React,  HTML, CSS, JavaScript
-
+React,  HTML, CSS, JavaScript
 
 ## How to run?
 
